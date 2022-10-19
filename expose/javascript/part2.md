@@ -1,8 +1,8 @@
 <ol>
-  <li>line 12 print 3 because </li>
-  <li>line 13 print 150</li>
-  <li>line 14 print 150</li>
-  <li>the function retuns the array of discounted prices which is [50,100,150]</li>
+  <li>line 12 print 3 because var made i function scoped still so still exists after the for loop and for loop did not finish untill i became 3 </li>
+  <li>line 13 print 150 because discounted price stil exists outside of the forloop</li>
+  <li>line 14 print 150 it was declared in the function scope but hte imporatn it print 150 because was the last value it had.</li>
+  <li>the function retuns the array of discounted prices which is [50,100,150] because it returns array list stored in the function ??</li>
   <li>error, i is not defined becasue it only exits in the scope of for loop.</li>
   <li>error, i is not defined becasue it only exits in the scope of for loop.</li>
   <li>it will print 150 because final price is declared with the scope of function. </li>
@@ -48,8 +48,7 @@
   <br>
   == is just checking if two values are considered the same </li>
   <li>check part2-question16.js file</li>
-  <li></li>
-  <li>check part2-question18.js file </li>
+  <li>we called modify array and passed in doSomething,t the function takes num and returns double the num and in for loop through the array and called callback array at index i, eventually we push this into a new array and return the new array values 2,4,6</li>
   <li>the output should be 1 4 3 2, 1 and 4 are printed instantly and 3 and 2 have a time delay 3 has timedelay of 0 seconds and 2 has a 1000ms time delay</li>
 
 </ol>
