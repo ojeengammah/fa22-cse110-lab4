@@ -48,10 +48,11 @@
   <li>=== is checking if the types are equal and is checking if the values are the same.
   <br>
   == is just checking if two values are considered the same </li>
-  <li></li>
-  <li></li>
+  <li>check part2-question16.js file</li>
+  <li>
+  </li>
   <li>check part2-question18.js file </li>
-  <li>the output should be 1 4 3 2 </li>
+  <li>the output should be 1 4 3 2, 1 and 4 are printed instantly and 3 and 2 have a time delay 3 has timedelay of 0 seconds and 2 has a 1000ms time delay</li>
 
 </ol>
 
