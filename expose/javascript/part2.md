@@ -1,5 +1,5 @@
 <ol>
-  <li>line 12 print 3 </li>
+  <li>line 12 print 3 because </li>
   <li>line 13 print 150</li>
   <li>line 14 print 150</li>
   <li>the function retuns the array of discounted prices which is [50,100,150]</li>
@@ -11,17 +11,16 @@
   <li>it prints 3 because .???</li>
   <li>it is returning the constant array discount. </li>
   <li><br>
-  A. student.name
+  A. student.name;
   <br>
-  B. student["Grad Year"]
+  B. student["Grad Year"];
   <br>
-  C. student.greeting()
+  C. student.greeting();
   <br>
-  D. student["Favorite Teacher"][name]
+  D. student["Favorite Teacher"]["name"];
   <br>
-  E. student.Courseload[0]
+  E. student.Courseload[0];
   <br>
-  
   
   </li>
   <li>
@@ -49,8 +48,7 @@
   <br>
   == is just checking if two values are considered the same </li>
   <li>check part2-question16.js file</li>
-  <li>
-  </li>
+  <li></li>
   <li>check part2-question18.js file </li>
   <li>the output should be 1 4 3 2, 1 and 4 are printed instantly and 3 and 2 have a time delay 3 has timedelay of 0 seconds and 2 has a 1000ms time delay</li>
 
