@@ -48,7 +48,7 @@
   <br>
   == is just checking if two values are considered the same </li>
   <li>check part2-question16.js file</li>
-  <li>we called modify array and passed in doSomething,t the function takes num and returns double the num and in for loop through the array and called callback array at index i, eventually we push this into a new array and return the new array values 2,4,6</li>
+  <li>we called modify array and passed in doSomething, the function takes num and returns double the num and in the for loop we loop through the array and call callback array at index i, eventually we push this into a new array and return the new array values 2,4,6</li>
   <li>the output should be 1 4 3 2, 1 and 4 are printed instantly and 3 and 2 have a time delay 3 has timedelay of 0 seconds and 2 has a 1000ms time delay</li>
 
 </ol>
