@@ -1,11 +1,18 @@
-line 12 print 3 
-line 13 print 150
-line 14 print 150
-the function retuns the array of discounted prices which is [50,100,150]
-error, i is not defined becasue it only exits in the scope of for loop.
-error, i is not defined becasue it only exits in the scope of for loop.
+<ol>
+  <li>line 12 print 3 </li>
+  <li>line 13 print 150</li>
+  <li>line 14 print 150</li>
+  <li>the function retuns the array of discounted prices which is [50,100,150]</li>
+  <li>error, i is not defined becasue it only exits in the scope of for loop.</li>
+  <li>error, i is not defined becasue it only exits in the scope of for loop.</li>
+  <li>it will print 150 because final price is declared with the scope of function. </li>
+  <li>it returns the array of discount prices </li>
+  <li>i is not defined because it exists within the scope.</li>
+  <li>it prints 3 because .???</li>
+  <li>it is returning the constant array discount. </li>
+</ol>
+
+
 it will print 150 because final price is declared with the scope of function. 
 it returns the array of discount prices 
-i is not defined because it exists within the scope.
-it prints 3 because .???
-it is returning the constant array discount. 
+
