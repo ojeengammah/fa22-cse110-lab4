@@ -45,9 +45,9 @@
      </ol>
   
   </li>
-  <li>=== is checking if the types are euqall and check is the values are the same. 
+  <li>=== is checking if the types are equal and is checking if the values are the same.
   <br>
-  == is just cheking if two values are considered the same </li>
+  == is just checking if two values are considered the same </li>
   <li></li>
   <li></li>
   <li>check part2-question18.js file </li>
