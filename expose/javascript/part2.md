@@ -10,9 +10,18 @@
   <li>i is not defined because it exists within the scope.</li>
   <li>it prints 3 because .???</li>
   <li>it is returning the constant array discount. </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li>check part2-question18.js file </li>
+  <li>the output should be 1 4 3 2 </li>
+
 </ol>
 
 
-it will print 150 because final price is declared with the scope of function. 
-it returns the array of discount prices 
+<!--- it will print 150 because final price is declared with the scope of function. 
+it returns the array of discount prices -->
 
