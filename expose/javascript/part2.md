@@ -10,10 +10,44 @@
   <li>i is not defined because it exists within the scope.</li>
   <li>it prints 3 because .???</li>
   <li>it is returning the constant array discount. </li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li><br>
+  A. student.name
+  <br>
+  B. student["Grad Year"]
+  <br>
+  C. student.greeting()
+  <br>
+  D. student["Favorite Teacher"][name]
+  <br>
+  E. student.Courseload[0]
+  <br>
+  
+  
+  </li>
+  <li>
+     <ol><li>"32"</li>
+     <li>1</li>
+     <li>3</li>
+     <li>"3null"</li>
+     <li>4</li>
+      <li>0</li>
+     <li>"3undefined"</li>
+     <li>NaN</li>
+     </ol>
+  </li>
+  <br>
+  <li>   <ol><li>true</li>
+     <li>false</li>
+     <li>true</li>
+     <li>false</li>
+     <li>false</li>
+     <li>true</li>
+     </ol>
+  
+  </li>
+  <li>=== is checking if the types are euqall and check is the values are the same. 
+  <br>
+  == is just cheking if two values are considered the same </li>
   <li></li>
   <li></li>
   <li>check part2-question18.js file </li>

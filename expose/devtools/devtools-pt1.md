@@ -4,7 +4,7 @@
   <li>file size "11.7MB (double check this with TA)"</li>
   <li>it takes "200ms"</li>
   <li>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36</li>
-  <li>it came from GitHub</li>
+  <li>it came from GitHub.com</li>
   <li>Thu, 15 Sep 2022 22:44:30 GMT</li>
   <li>it is "application/json; charset=utf-8"</li>
   <li>the function was "fetchData()"</li>
