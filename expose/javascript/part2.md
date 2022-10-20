@@ -17,7 +17,7 @@
   <br>
   C. student.greeting();
   <br>
-  D. student["Favorite Teacher"]["name"];
+  D. student["Favorite Teacher"].name;
   <br>
   E. student.Courseload[0];
   <br>
