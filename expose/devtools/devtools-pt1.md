@@ -1,7 +1,7 @@
 <ol>
   <li>the name of file is "citylots.json"</li>
   <li>it is "expose.js"</li>
-  <li>file size "11.7MB (double check this with TA)"</li>
+  <li>file size "149 B"</li>
   <li>it takes "200ms"</li>
   <li>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36</li>
   <li>it came from GitHub.com</li>
