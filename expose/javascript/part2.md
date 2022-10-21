@@ -1,15 +1,15 @@
 <ol>
-  <li>line 12 print 3 because var made i function scoped still so still exists after the for loop and for loop did not finish untill i became 3 </li>
-  <li>line 13 print 150 because discounted price stil exists outside of the forloop</li>
-  <li>line 14 print 150 it was declared in the function scope but hte imporatn it print 150 because was the last value it had.</li>
-  <li>the function retuns the array of discounted prices which is [50,100,150] because it returns array list stored in the function ??</li>
-  <li>error, i is not defined becasue it only exits in the scope of for loop.</li>
-  <li>error, i is not defined becasue it only exits in the scope of for loop.</li>
-  <li>it will print 150 because final price is declared with the scope of function. </li>
-  <li>it returns the array of discount prices </li>
-  <li>i is not defined because it exists within the scope.</li>
-  <li>it prints 3 because .???</li>
-  <li>it is returning the constant array discount. </li>
+  <li>line 12 print 3 because var made i function scoped still so still exists after the for loop and for loop did not finish untill i becames 3 </li>
+  <li>line 13 print 150 because discounted price stil exists outside of the forloop because it was declared using var therefore it prints 150 and the last iteration it given the value 150</li>
+  <li>line 14 print 150 it was declared in the function scope but the it print 150 because it was declared in the within the function scope and in the last iteration of the loop it was given the value 150.</li>
+  <li>the function retuns the array of discounted prices which is [50,100,150] because it returns array list that was create in the function.</li>
+  <li>error, i is not defined becasue it was declared using let while in the for loop meaning it only exists in the scope of the for loop.</li>
+  <li>error, discountedPrice is not defined becasue it was declared using let while in the for loop meaning it only exists in the scope of the for loop.</li>
+  <li>it will print 150 because final price is declared using let within the scope of function the scope of the function and was given the value 150 in the last iteration in the loop.</li>
+  <li>the function retuns the array of discounted prices which is [50,100,150] because it returns array list that was create in the function.</li>
+  <li>error, i is not defined becasue it was declared using let while in the for loop meaning it only exists in the scope of the for loop</li>
+  <li>it prints 3 because 3 was the length of the array that was passed in and whose length was assigned to the constant named length.</li>
+  <li>the function retuns the array of discounted prices which is [50,100,150] because it returns array list that was create in the function.</li>
   <li><br>
   A. student.name;
   <br>
